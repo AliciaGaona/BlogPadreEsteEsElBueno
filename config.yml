@@ -1,5 +1,5 @@
 baseURL: "https://aliciagaona.github.io/BlogSiteLevantaSitePaperMod/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: PaperMod
+title: Soy Alice
 paginate: 5
 theme: hugo-PaperMod
 
@@ -45,7 +45,7 @@ params:
 
     profileMode:
         enabled: false
-        title: PaperMod
+        title: Soy Alice
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -57,19 +57,17 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "Soy Alice"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
+            Alice in the world of technology ✨💻.
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - **Bienvenido** a mi blog.
 
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            - Estaré compartiendo un poco de mi aprendizaje.🌟
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
+          url: "https://github.com/AliciaGaona"
         - name: KoFi
           url: "https://ko-fi.com/adityatelange"
         - name: Rss
