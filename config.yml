@@ -69,9 +69,9 @@ params:
         - name: github
           url: "https://github.com/AliciaGaona"
         - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: Rss
-          url: "index.xml"
+          url: "https://twitter.com/AliciaGaona20"
+        # - name: Rss
+        #   url: "index.xml"
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
