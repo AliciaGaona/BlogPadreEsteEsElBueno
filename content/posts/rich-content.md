@@ -1,10 +1,14 @@
 ---
-author: "Hugo Authors"
-title: "Rich Content"
-date: "2019-03-10"
-description: "A brief description of Hugo Shortcodes"
-tags: ["shortcodes", "privacy"]
+author: "Alicia Gaona"
+title: "Hugo"
+date: "2022-08-17"
+description: "Introducción HUGO"
+tags: ["hugo"]
 ShowToc: true
 ---
 
-hola
+##Introducción HUGO
+
+HUGO es un generador de sitios estáticos.
+
+Un sitio estático es un sitio que muestra interacción con el usuario, no esta ligado a base de datos.
